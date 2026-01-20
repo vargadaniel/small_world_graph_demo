@@ -4,6 +4,14 @@ This application is an educational tool designed to introduce the **Small-World 
 
 **Try it out:** [https://vargadaniel.github.io/small_world_graph_demo/](https://vargadaniel.github.io/small_world_graph_demo/)
 
+## Six Degrees of Separation and Small-World Graphs
+
+The concept of **Six Degrees of Separation** suggests that any two people on Earth are six or fewer social connections away from each other. In graph theory, this is known as the **Small-World effect**. Small-world graphs are a type of mathematical graph in which most nodes are not neighbors of one another, but the neighbors of any given node are likely to be neighbors of each other (high clustering) and most nodes can be reached from every other node by a small number of steps (short average path length). This demo illustrates how adding just a few "long-range" edges between distant clusters can dramatically shrink the "distance" across the entire network.
+
+More information about:
+- [Six degrees of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation). 
+- [Small-World Graphs](https://en.wikipedia.org/wiki/Small-world_network).
+
 ## Interactive Features
 
 - **Node Interaction**: Click on a node to select it. Click on a second node to create an edge between them.
