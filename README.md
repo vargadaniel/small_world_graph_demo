@@ -2,6 +2,8 @@
 
 This application is an educational tool designed to introduce the **Small-World Graph** concept to high school students. It allows users to interactively build and evaluate graphs on a world map, demonstrating how a few "long-range shortcuts" can significantly reduce the average path length between nodes.
 
+**Try it out:** [https://vargadaniel.github.io/small_world_graph_demo/](https://vargadaniel.github.io/small_world_graph_demo/)
+
 ## Interactive Features
 
 - **Node Interaction**: Click on a node to select it. Click on a second node to create an edge between them.
