@@ -33,3 +33,9 @@ The interface includes several buttons to control the graph state (labeled in Hu
 - **Average Path Length**: The average number of steps required to reach all other nodes from the starting node.
 - **Clustering Coefficient**: A measure of the degree to which nodes in a graph tend to cluster together.
 - **Score (Points)**: A metric used to compare different graph topologies. In this demo, score is calculated as `Edges * Average Path * 10`. A lower score typically indicates a more efficient "Small World" network.
+
+## TODO
+
+- The user should be able to place a query node on the map.
+- Implementing greedy search algorithm to find the query node from the starting node.
+- Calculating the average number of distance comparisons for all paths.
